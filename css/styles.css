@@ -1,0 +1,35 @@
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.nav-custom .nav-link {
+    font-size: 1.5rem;   
+}
+
+.q_text>p>strong {
+    font-size: 1.5rem;
+}
+
+.custom-radio-size {
+    font-size: 1.5rem;
+}
+
+.form-mp {
+    margin-top: 2rem;
+}
+
+.q_label {
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+}
+.q_tarea {
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    width: 50%;
+}
+
+.anonymous {
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
